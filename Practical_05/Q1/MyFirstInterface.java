@@ -13,6 +13,7 @@ package javaapplication26;
 public interface MyFirstInterface {
      public static final int x=10; //
     
-     abstract void display(); //
+     abstract void display();
+     //
     
 }
